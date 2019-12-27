@@ -1,0 +1,17 @@
+{
+  "name": "usgs-search-api",
+  "version": "2.1.0",
+  "description": "Search JavaScript API provided by the USGS. The Search API is a JavaScript library for creating a location search widget in a web page, typically in conjunction with a web map. An auto-complete menu is populated with location suggestions as the user types text.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "search",
+    "geocode",
+    "usgs",
+    "leaflet"
+  ],
+  "author": "Stuart Illson",
+  "license": "ISC"
+}
