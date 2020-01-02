@@ -13,5 +13,8 @@
     "leaflet"
   ],
   "author": "Stuart Illson",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
 }
